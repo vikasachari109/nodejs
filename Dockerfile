@@ -1,5 +1,4 @@
 
-
 FROM node:14
 
 # Create app directory
@@ -28,4 +27,4 @@ CMD [ "node", "server.js" ]
 # docker run -d -p 8080:8080 < image id > 
 # = in the above command -d is for to run app in normal condition ,
 # = -p is for the ports or publish the first 8080 is for what we are running in the local 
-# = second 8080 is the container port id 
+# = second 8080 is the container port id.
