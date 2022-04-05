@@ -28,3 +28,4 @@ CMD [ "node", "server.js" ]
 # = in the above command -d is for to run app in normal condition ,
 # = -p is for the ports or publish the first 8080 is for what we are running in the local 
 # = second 8080 is the container port id.
+# checking
